@@ -1,8 +1,8 @@
 team: Tigers
 
-manager: Brenda
+manager: Thonos
 
-coach: Ruth
+coach: Ronan
 
 members:
 - Linda
@@ -11,5 +11,12 @@ members:
 - George
 - Tyler
 - Kim
+<<<<<<< Updated upstream
+=======
+- Gamora
+- Nebula
+- Stash
+
+>>>>>>> Stashed changes
 
 - fetch this
